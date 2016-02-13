@@ -115,4 +115,6 @@ Use tag `<article>` for this text block
 
 ### Images:
 
-    
+    ![alt](img/images.jpg  "Hint")
+
+![img joke](img/images.jpg "Hint")
